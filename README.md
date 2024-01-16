@@ -1,1 +1,1 @@
-# basic-golang-database
+# python-mailing-client
